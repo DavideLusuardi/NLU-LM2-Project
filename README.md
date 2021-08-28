@@ -15,7 +15,10 @@ The following Python libraries are required:
 * pandas
 
 ## Notebook
-The source code file is a Jupyter notebook and can be executed 
+The source code file is a Jupyter notebook and can be opened 
 with Jupyter or Google Colab. 
 
 Documentation and description of the code is present in the notebook.
+
+The `data` folder contains a subfolder `ptbdataset` that contains 
+training, validation and test set of Penn Treebank.
